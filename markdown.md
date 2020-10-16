@@ -29,3 +29,5 @@ Some stuff I do need to focus on moving forwar is:
  - Spelling
  - Attention to detail
  - PRACTICING MUCH MUCH MORE
+ 
+ [<== HOME!](README.md)
