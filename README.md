@@ -2,6 +2,8 @@
 
 I'm Brian. I'm a paratrooper in the Army! I'm exiting my military career and am looking to get into software development.
 
+![Paratrooper] (https://i.insider.com/56cf4a052e5265bc008b993c?width=1000&format=jpeg&auto=webp) 
+
 
 ## Here's my notes on class 1! 
 
