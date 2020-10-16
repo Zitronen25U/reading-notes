@@ -19,5 +19,7 @@ I'm Brian. I'm a paratrooper in the Army! I'm exiting my military career and am 
 
 - Lesson 2
 
+[The Coders Computer](coderscomputer.md)
+
 
 
