@@ -16,3 +16,5 @@ To me, having a growth mindset means
 In order to grow you really need to focus on working hard to improve yourself. We all have flaws and all struggle with new topics, but asking questions and working hard typically can make you better at any subject.
 
 ***Growing takes work. Work is hard, but learning new skills is incredibly rewarding***
+
+[<== HOME!](README.md)
