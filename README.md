@@ -9,9 +9,11 @@ I'm Brian. I'm a paratrooper in the Army! I'm exiting my military career and am 
 
 - Class 1
 
+[Growth Mindset](growthmindset.md)
+
+
 [Markdown](markdown.md) 
 
-[Growth Mindset](growthmindset.md)
 
 - Class 2
 
