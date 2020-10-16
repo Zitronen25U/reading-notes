@@ -45,3 +45,5 @@ When choosing an editor, it is important to choose one that works for you, and w
 When choosing however, there are many different needs that you need to consider such as customization, software compatability, and just overall user friendliness. The choice however, is really up to you as the user
 
  ## **CHOOSE CAREFULLY!**
+ 
+ [<== HOME!](README.md)
