@@ -24,7 +24,7 @@ In order to grow you really need to focus on working hard to improve yourself. W
 
 
 ## Table Of Contents
-- [Class 1: Markdown](growthmindset.md) 
+- [Class 1: Markdown](markdown.md) 
 
 
 
