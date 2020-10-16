@@ -22,9 +22,6 @@ In order to grow you really need to focus on working hard to improve yourself. W
 
 ***Growing takes work. Work is hard, but learning new skills is incredibly rewarding***
 
-:ok_hand:
-
-
 
 ## Table Of Contents
 - [Class 1: Markdown](markdown.md) 
