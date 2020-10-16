@@ -5,9 +5,11 @@ I'm Brian. I'm a paratrooper in the Army! I'm exiting my military career and am 
 ![Airborne](https://api.army.mil/e2/c/images/2013/12/13/324627/size0.jpg) 
 
 
-## Table Of Contents
+# Table Of Contents
 
-- Class 201
+## Class 102 
+
+- Lesson 1
 
 [Growth Mindset](growthmindset.md)
 
@@ -15,7 +17,7 @@ I'm Brian. I'm a paratrooper in the Army! I'm exiting my military career and am 
 [Mastering Markdown](markdown.md) 
 
 
-- Class 2
+- Lesson 2
 
 
 
