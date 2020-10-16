@@ -7,7 +7,7 @@ I'm Brian. I'm a paratrooper in the Army! I'm exiting my military career and am 
 
 ## Table Of Contents
 
-- Class 1
+- Class 201
 
 [Growth Mindset](growthmindset.md)
 
