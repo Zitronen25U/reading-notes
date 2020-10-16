@@ -12,7 +12,7 @@ I'm Brian. I'm a paratrooper in the Army! I'm exiting my military career and am 
 [Growth Mindset](growthmindset.md)
 
 
-[Markdown](markdown.md) 
+[Mastering Markdown](markdown.md) 
 
 
 - Class 2
