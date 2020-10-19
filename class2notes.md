@@ -70,7 +70,9 @@
 
 # THIS WILL NOT UPDATE ONLINE VERSION
 
-- "git push" will push from local to github
+- "git push" will push from local to github (It asked me to login, and the push origin master command didnt work. Just git push)
+
+
 
 
 
