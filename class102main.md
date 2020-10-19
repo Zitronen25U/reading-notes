@@ -16,7 +16,7 @@
 
 - Lesson 3 
 
-[Revisions and the Cloud](Revisions.md)
+[Revisions and the Cloud](revisions.md)
 
 ## Class 102 Notes
 
@@ -24,6 +24,7 @@
 
 [The Coder's Computer](class2notes.md)
 
+- Lesson 3
 
 
 [<=== HOME!](README.md)
