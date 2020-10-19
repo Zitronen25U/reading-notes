@@ -22,7 +22,7 @@
 
 - Lesson 3
 
-[Revisions and the Cloud](class2notes.md)
+[Revisions and the Cloud](102_class_3_notes.md)
 
 - Lesson 4
 

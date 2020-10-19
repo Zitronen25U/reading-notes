@@ -1,4 +1,4 @@
-# The Coder's Computer
+# Lesson 3 Notes
 
 ### Understanding GIT
 
