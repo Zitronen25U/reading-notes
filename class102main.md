@@ -4,19 +4,19 @@
 
 - Lesson 1
 
-[Growth Mindset](growthmindset.md)
+[Growth Mindset](102_a_1.md)
 
 
-[Mastering Markdown](markdown.md) 
+[Mastering Markdown](102_a_2.md) 
 
 
 - Lesson 2
 
-[The Coder's Computer](coderscomputer.md)
+[The Coder's Computer](102_a_3.md)
 
 - Lesson 3 
 
-[Revisions and the Cloud](revisions.md)
+[Revisions and the Cloud](102_a_4.md)
 
 ## Class 102 Notes
 
