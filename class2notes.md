@@ -25,7 +25,17 @@
 
 ### GitHub
 
-- 
+- Share code with others
+
+- online place to store code
+
+- review changes
+
+- keep changes seperate until you want to add them
+
+- Have lots of people working on code at the same time
+
+- keep a history of each file over time
 
 
 
