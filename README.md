@@ -7,7 +7,7 @@ I'm Brian. I'm a paratrooper in the Army! I'm exiting my military career and am 
 
 # Table Of Contents:
 
-## [CLASS 102](102main.md)
+## [CLASS 102](class102main.md)
 
 
 
