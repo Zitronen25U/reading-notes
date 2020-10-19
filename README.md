@@ -7,24 +7,6 @@ I'm Brian. I'm a paratrooper in the Army! I'm exiting my military career and am 
 
 # Table Of Contents:
 
-## Class 102 Assignments
 
-- Lesson 1
-
-[Growth Mindset](growthmindset.md)
-
-
-[Mastering Markdown](markdown.md) 
-
-
-- Lesson 2
-
-[The Coder's Computer](coderscomputer.md)
-
-## Class 102 Notes
-
-- Lesson 2
-
-[The Coder's Computer](class2notes.md)
 
 
