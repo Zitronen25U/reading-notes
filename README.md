@@ -1,5 +1,7 @@
 # Welcome to my page! 
 
+## About Me!
+
 I'm Brian. I'm a paratrooper in the Army! I've really enjoyed my military career but its time to move on!
 
 I'm incredibly excited to learn these new skills, and am really looking forward to seeing my progress and I grow!
