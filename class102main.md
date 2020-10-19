@@ -20,11 +20,11 @@
 
 ## Class 102 Notes
 
-- Lesson 2
-
-[The Coder's Computer](class2notes.md)
-
 - Lesson 3
+
+[Revisions and the Cloud](class2notes.md)
+
+- Lesson 4
 
 
 [<=== HOME!](README.md)
