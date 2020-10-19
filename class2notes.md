@@ -43,7 +43,37 @@
 
 - Usually 1 project = 1 repository 
 
-- 
+### Linking repositories 
+
+- connected repo's can receive code from eachother
+
+- "cloning"
+
+- ^ Brings changes from github, to local computer file
+
+- Click clone w/ https. HOW TO BELOW
+
+1 Open terminal
+
+2 "cd documents"
+
+
+- WATCHING THIS VIDEO IS NUTS
+
+- ADD, COMMITT, PUSH
+
+- Check status with "Git status"
+
+- "git add (filename) "
+
+-"git commit" "git commit -m (message)" (leaves message on commit)
+
+# THIS WILL NOT UPDATE ONLINE VERSION
+
+- "git push" will push from local to github
+
+
+
 
 
 
