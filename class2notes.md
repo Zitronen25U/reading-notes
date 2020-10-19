@@ -37,6 +37,14 @@
 
 - keep a history of each file over time
 
+- can run into a merge conflict. GET HELP ASAP
+
+### Repositories 
+
+- Usually 1 project = 1 repository 
+
+- 
+
 
 
 [<=== HOME!](README.md)
