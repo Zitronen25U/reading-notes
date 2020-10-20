@@ -80,8 +80,9 @@ HTML stands for
 
 ### What it does
 
-- Introduces new set of elements that allow you to divide up the parts of a page. 
+- Introduces new set of elements that allow you to divide up the parts of a page.
 
+[<=== Go Back!](class102main.md)
 
-[<=== Class 102!>(class102main.md)
+>]
 
