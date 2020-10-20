@@ -26,5 +26,7 @@
 
 - Lesson 4
 
+[Class 4 Notes](102_class_4_notes.md)
+
 
 [<=== HOME!](README.md)
