@@ -18,6 +18,10 @@
 
 [Revisions and the Cloud](102_a_4.md)
 
+- Lesson 5
+
+[Design Web Pages with CSS](102_a_5.md)
+
 
 ## Class 102 Notes
 
@@ -27,8 +31,12 @@
 
 - Lesson 4
 
-[Class 4 Notes](102_cla
-ss_4_notes.md)
+[Class 4 Notes](102_class_4_notes.md)
+
+- Lesson 5
+
+[Design Pages With CSS](102_class_5_notes.md)
+
 
 
 [<=== HOME!](README.md)
