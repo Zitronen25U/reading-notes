@@ -35,6 +35,66 @@ Reading PG 46-59 Javascript book
 - Not many notes today. Just really observed some scripts that roger has shown. Am gonna google some scripts for the lab myself!
 
 
+## How Computers Work!
+
+### BILL BILL BILL GATES
+
+- Solid intro Bill. None of us know how computers work
+
+### What makes a computer a computer
+
+- how does it work?
+    - My dad worked with Nat on the xbox team. Small world
+    - machines that manipulate information
+
+
+- 4 different tasks of all computers
+
+    - input
+    - storage
+    - processing
+    - output
+
+### Binary and Data
+
+- no one deals with binary actually
+- electric wires and circuts. 
+- Signal can be on, or off. Yes or no. 1 or 0
+- The Binary Number System
+    - any number is represented with 1's and 0's  
+
+### Circuts and Logic
+
+- can take multiple signals and combine them to give diff results
+- all information processing your computer does is done by circuts
+
+### CPU, Memory, Input, Output
+
+- Input
+    - Keyboard, camera, mic etc
+    - Sends input to CPU in binary
+- CPU 
+    - calculates how to give input.
+    - requests how to from memory
+- Memory
+    - gives how to CPU and stores future info
+- Output
+    - CPU gives data to output device
+
+### Hardware and Software
+
+- hardware = physical things of computers. 
+- software = code 
+- CPU is master controller
+- sends and receive informaiton
+- knows which circuts to use and when to use them
+- Binary commands stored in memory and executes them in sequence 
+- modern day programming consists of commands stored in memory. 
+
+### Operating System
+
+- BILL BILL BILL BILL GATES. He was mad flexing on that interview. I made microsoft, which MOST PEOPLE USE BTW. Lol get recked apple
+- Anyway, The OS is the software controller by loading things into computers memory
 
 
 

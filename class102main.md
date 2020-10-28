@@ -37,6 +37,11 @@
 
 [Design Pages With CSS](102_class_5_notes.md)
 
+- Lesson 6
+
+[Java Script!](102_class_6_notes.md)
+
+
 
 
 [<=== HOME!](README.md)
