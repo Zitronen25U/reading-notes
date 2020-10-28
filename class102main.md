@@ -18,6 +18,7 @@
 
 [Revisions and the Cloud](102_a_4.md)
 
+
 ## Class 102 Notes
 
 - Lesson 3
@@ -26,7 +27,8 @@
 
 - Lesson 4
 
-[Class 4 Notes](102_class_4_notes.md)
+[Class 4 Notes](102_cla
+ss_4_notes.md)
 
 
 [<=== HOME!](README.md)
