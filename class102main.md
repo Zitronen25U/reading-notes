@@ -41,7 +41,8 @@
 
 [Java Script!](102_class_6_notes.md)
 
+- Lesson 7
 
-
+[More Java!](102_class_7_notes.md)
 
 [<=== HOME!](README.md)
