@@ -45,4 +45,8 @@
 
 [More Java!](102_class_7_notes.md)
 
+- Lesson 8
+
+[Loops!](102_class_8_notes.md) 
+
 [<=== HOME!](README.md)

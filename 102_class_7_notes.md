@@ -80,4 +80,10 @@ function getArea(width, height) {
 
 parameters are width and height
 
+
+
+## USING FUNCTIONS:
+
+- 
+
 [<=== Back!](class102main.md)
