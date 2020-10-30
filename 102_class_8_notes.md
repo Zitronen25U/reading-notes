@@ -33,7 +33,7 @@ You can evaluate a situation by comparing values. The result will be a Boolean: 
 
 
 - && Logical And
-- || logical or
+- '||' logical or
 - ! logical not
 
 ### pg 170
