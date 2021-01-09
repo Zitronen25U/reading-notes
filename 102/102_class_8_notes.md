@@ -80,4 +80,4 @@ This add 1 to the variable i everytime the loop is run
 - continues to run the loop until its no longer true
 
 
-[<=== BACK!](class102main.md)
+[<=== BACK!](../class102main.md)
