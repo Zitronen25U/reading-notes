@@ -91,5 +91,5 @@ Imagine there is an invisible box around every HTML element.
 
 >expressed as background-color: hsla(#,%,%,#) 
 
-[<=== 102 Main!](class102main.md)
+[<=== 102 Main!](../class102main.md)
 >]
