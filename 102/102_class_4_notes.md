@@ -82,7 +82,7 @@ HTML stands for
 
 - Introduces new set of elements that allow you to divide up the parts of a page.
 
-[<=== Go Back!](class102main.md)
+[<=== Go Back!](../class102main.md)
 
 >]
 
