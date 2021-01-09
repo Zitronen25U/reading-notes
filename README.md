@@ -11,13 +11,13 @@ I'm incredibly excited to learn these new skills, and am really looking forward 
 
 # Table Of Contents:
 
-## 1) [CLASS 102](class102main.md)
+## 1) [Code 102 Reading Notes](class102main.md)
 
-## 2) [CLASS 201](class201main.md) 
+## 2) [Code 201 Reading Notes](class201main.md) 
 
-## 3) [CLASS 301](class301main.md)
+## 3) [Code 301 Reading Notes](class301main.md)
 
-## 4) [CLASS 401](class401main.md)
+## 4) [Code 401 Reading Notes](class401main.md)
 
 
 
