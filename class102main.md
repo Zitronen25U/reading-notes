@@ -4,7 +4,7 @@
 
 - Lesson 1
 
-[Growth Mindset](102_a_1.md)
+[Growth Mindset](102/102_a_1.md)
 
 
 [Mastering Markdown](102_a_2.md) 
