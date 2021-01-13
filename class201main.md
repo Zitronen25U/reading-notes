@@ -6,7 +6,7 @@
 
 - [Daily Reading Assignment 2](201/class-02.md)
 
-- [Daily Reading Assignment 3](201/201read3.md)
+- [Daily Reading Assignment 3](201/class-03.md)
 
 - [Daily Reading Assignment 4](201/201read4.md)
 
