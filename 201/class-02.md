@@ -1,5 +1,5 @@
 
-# Reading Notes Blog Article for Class 02
+# Reading Notes Article for Class 02
 
 ## HTML + CSS 
 
@@ -54,8 +54,61 @@
 
 ### CSS
 
+- 
+
 ### Basic Javascript
 
 - variables >var is a declared data storage
+
+- Statements; a set of instructions
+
+- comments; non code statements used with //
+
+- a variable is named after it is declared
+
+- variables can be assigned a value with = 
+
+- Data Types
+    - Numerical - numerical only 
+    - String - letters or characters
+    - Boolean - True or False 
+
+- Rules for naming variables
+    - name must begin with letter, $, or _
+    - can contain letters, numbers, dollar sign, or underscore
+    - cannot use keywords or reserved words
+    - all variables are case sensative
+    - use variables that describe the kind of information youre storing
+    - use capital letters for every word after the 1st word
+
+- Array's 
+    - stores a list of value
+
+- Expressions
+    - evaluated results of data into single value
+
+
+
+### Loops and Decisions
+
+- Conditional Statements
+    - expression is evaluated and returns a value
+    - says what to do if given a value
+
+- * REF PREV NOTES ON COMPARING CONDITIONS 
+
+- Use comparisson operators to 
+    - return a true or false
+
+- Logical Operators 
+    - compare different comoparison operators
+    - SEE NOTES ON LOGICAL OPERATORS
+
+- IF statements
+    - if statement passes check, it returns a true value
+
+- Else checks condition 
+    - if it resolves to true, the first code block is exec.
+    - if resolves false, runs 2nd block of code
 
 - 
