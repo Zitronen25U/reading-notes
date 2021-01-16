@@ -1,0 +1,3 @@
+# READING NOTES FOR CLASS 3!
+
+## 
