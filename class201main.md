@@ -8,7 +8,7 @@
 
 - [Daily Reading Assignment 3](201/class-03.md)
 
-- [Daily Reading Assignment 4](201/201read4.md)
+- [Daily Reading Assignment 4](201/class-04.md)
 
 - [Daily Reading Assignment 5](201/20read5.md)
 
