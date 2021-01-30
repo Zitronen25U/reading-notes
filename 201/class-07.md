@@ -18,29 +18,29 @@
 - A table represents the info in a grid format
 - allows us to udnerstand complex data by referencing information on two axes
   - each block in the grid is referred to as a **table cell**
-- > <table> element is used to create a table. 
+- > table> element is used to create a table. 
   - written out by rows
-- > <tr> indicates the start of each row
-  - > <td> is used to follow 
+- > tr> indicates the start of each row
+  - > td> is used to follow 
 
-- > <table>
-- > <tr>
-- >   <td>
+- > table>
+- > tr>
+- >   td>
 
 - table heads are used with the <th> tag
 
 - to have table spread across the entire page, use the > colspan within the <td> tag
-  - > <td colspan> 
+  - > td colspan> 
 
 - if you want entries to span down across more than one row
-  - > <td rowspan> 
+  - > td rowspan> 
 
 - Three elements that help distinguish between the main content of the table and the first and last rows
-  - ><thead> 
+  - >thead> 
     - headings of table sit inside this elements
-  - ><tbody>
+  - >tbody>
     - body should sit inside
-  - ><tfoot>
+  - >tfoot>
     - the footer belongs inside here
 
 ## JavaScript
