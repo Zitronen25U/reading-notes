@@ -8,10 +8,10 @@ I'm Brian. I'm and Army Veteran and Future Software Engineer. This is where I wi
 
 ## Table Of Contents:
 
-## 1) [Code 102 - Intro to Software Development](class102main.md)
+## 1. [Code 102 - Intro to Software Development](class102main.md)
 
-## 2) [Code 201 - Foundations of Software Development](class201main.md) 
+## 2. [Code 201 - Foundations of Software Development](class201main.md) 
 
-## 3) [Code 301 - Intermediate Software Development](class301main.md)
+## 3. [Code 301 - Intermediate Software Development](class301main.md)
 
-## 4) [Code 401 - Advanced Software Development](class401main.md)
+## 4. [Code 401 - Advanced Software Development](class401main.md)
