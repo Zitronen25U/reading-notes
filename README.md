@@ -2,7 +2,7 @@
 
 ## About the Site!
 
-I'm Brian. I'm and Army Veteran and Future Software Engineer. This is where I will store all of my reading notes for Code Fellows
+I'm Brian. I'm and Army Veteran and Future Software Engineer. This is where I will store all of my reading notes for Code Fellows!
 
 ![Airborne](https://api.army.mil/e2/c/images/2013/12/13/324627/size0.jpg) 
 
