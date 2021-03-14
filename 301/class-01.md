@@ -116,4 +116,4 @@
 - React has a very strict rule
   - **All React components must act like pure functions with respect to their props.**
 
-- [Return Home!](class301main.md)
+[Return Home!](class301main.md)
