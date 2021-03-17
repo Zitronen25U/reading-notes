@@ -6,16 +6,19 @@
 
 - this takes celsius as a prop and prints whether it is enough to boil water
 
-`function BoilingVerdict(props) {
+```js
+function BoilingVerdict(props) {
   if (props.celsius >= 100) {
     return <p>The water would boil.</p>;
   }
   return <p>The water would not boil.</p>;
-}`
+}
+```
 
 - this renders an input that lets you enter the temp and keep its value in the stat
 
-`class Calculator extends React.Component {
+``` js
+class Calculator extends React.Component {
   constructor(props) {
     super(props);
     this.handleChange = this.handleChange.bind(this);
@@ -39,8 +42,8 @@
       </fieldset>
     );
   }
-}`
-
+}
+```
 ### Adding a second input to this
 
 - want to add Farenheit
@@ -49,7 +52,8 @@
 
 2. add a new scale prop to it that can be 'c' or 'f'
 
-`const scaleNames = {
+``` js
+const scaleNames = {
   c: 'Celsius',
   f: 'Fahrenheit'
 };
@@ -76,11 +80,13 @@ class TemperatureInput extends React.Component {
       </fieldset>
     );
   }
-}`
+}
+```
 
 - THe calculator can render to seperate inputs
 
-`class Calculator extends React.Component {
+```
+class Calculator extends React.Component {
   render() {
     return (
       <div>
@@ -89,5 +95,6 @@ class TemperatureInput extends React.Component {
       </div>
     );
   }
-}`
+}
+```
 
