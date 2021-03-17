@@ -266,4 +266,8 @@ const helloWorld = {...hello,...world}
 console.log(helloWorld) // Object { hello: "😋😛😜🤪😝", world: "🙂🙃😉😊😇🥰😍🤩!" }
 ```
 
-- 
+## Sources
+
+![React Documents](https://reactjs.org/docs/lifting-state-up.html)
+![React Documents](https://reactjs.org/docs/lists-and-keys.html)
+![medium](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
