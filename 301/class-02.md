@@ -122,4 +122,4 @@
 2. add your build settings
 3. deploy website
 
-[Return!](class301main.md)
+[Return!](/class301main.md)

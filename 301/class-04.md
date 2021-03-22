@@ -217,4 +217,6 @@ event.target.name
 
 ## React Bootsrap, Forms
 
-- this seems so much easier than inputing all of this data on my own. 
+- this seems so much easier than inputing all of this data on my own.
+
+[Return!](/class301main.md)
