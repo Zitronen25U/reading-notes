@@ -116,7 +116,8 @@ def renew_book_librarian(request, pk):
 - for the following template, the file catalog/templates/catalog/book_renew_librarian.html was created
 
 ```py
-{% extends "base_generic.html" %}
+
+# {% extends "base_generic.html" %}
 
 {% block content %}
   <h1>Renew: {{ book_instance.book.title }}</h1>
